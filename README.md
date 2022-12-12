@@ -13,6 +13,8 @@ Also, you can look on my testing tasks in /test_api and /testing_tasks reps.
 In January 2022, got a job as a Junior in the development department, which deals with batch processing of large
 amounts of data, from scientific equipment, on their own computing cluster.
 
+- :memo: You can see my solutions to the test tasks: https://github.com/DePreto/testing_tasks
+
 - 📫 How to reach me: the best way - telegram: `@depreto` or mail: `depreto.kd@gmail.com`
 
 <!---
