@@ -1,19 +1,9 @@
-- 👋 Hi, My name is Konstantin. Lately I have worked closely with the following technologies stack: Apache Airflow,
-PostgreSQL, Alembic, Docker, Pytest. In parallel, for educational purposes, I studied documentation and worked with:
-Fastapi, Pydantic, SQLAlchemy, Hadoop ecosystem (HDFS, MapReduce, Hive, Spark, etc.)
+- 👋 Hi, My name is Konstantin. At the beginning of 2020 I was faced with a lack of development in the field of ecology and decided to choose a direction in which you can always learn new and interesting things.
+So I made a decision to develop in python-development, which covers several areas I am interested in: web backend, ML, DE.
 
-- 🌱 At the beginning of 2021 I decided to leave the environmental field and to develop in the IT. To date, a course on the
-basics of programming from Geekbrains was taken, which resulted in the development of a personal page using the
-markup language HTML and JS (https://github.com/DePreto/first_website).
-Since April 2021 I'm taking a one year course "Python Developer Profession" to get the corresponding knowledge
-base and diploma. I developed a telegram bot for hotel search (https://github.com/DePreto/tg_bot) and took a Python
-Advanced course with the preparation of the diploma project on API development on FastAPI - Twitter's analog (in
-development). 
-Also, you can look on my testing tasks in /test_api and /testing_tasks reps.
-In January 2022, got a job as a Junior in the development department, which deals with batch processing of large
-amounts of data, from scientific equipment, on their own computing cluster.
-
-- :memo: You can see my solutions to the test tasks: https://github.com/DePreto/testing_tasks
+- 🌱 Writing on python for 2 years +.
+Commercial experience (1 year +) with python3: Apache Airflow, PostgreSQL, SQLAlchemy, Alembic, Docker, Pytest. 
+Training projects with python3: Fastapi, Pydantic, SQLAlchemy, asyncio.
 
 - 📫 How to reach me: the best way - telegram: `@depreto` or mail: `depreto.kd@gmail.com`
 
