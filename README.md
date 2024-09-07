@@ -1,9 +1,7 @@
-- 👋 Hi, My name is Konstantin. At the beginning of 2020 I was faced with a lack of development in the field of ecology and decided to choose a direction in which you can always learn new and interesting things.
-So I made a decision to develop in python-development, which covers several areas I am interested in: web backend, ML, DE.
+- 👋 Hi, My name is Konstantin. In early 2020, I recognized a gap in the ecological sector's development and chose to pivot towards a field that promises constant learning and innovation. I embarked on a journey to specialize in Python development, which spans several of my areas of interest: web backend, machine learning, and data engineering.
 
 - 🌱 Writing on python for 2 years +.
-Commercial experience (1 year +) with python3: Apache Airflow, PostgreSQL, SQLAlchemy, Alembic, Docker, Pytest. 
-Training projects with python3: Fastapi, Pydantic, SQLAlchemy, asyncio.
+Commercial experience with Python 3 includes working with technologies such as Apache Airflow, Apache Kafka, S3, ClickHouse, PostgreSQL, SQLAlchemy, Alembic, Docker, and Pytest. I have also developed training projects utilizing FastAPI, Pydantic, SQLAlchemy, and asyncio to further enhance my skills in Python programming.
 
 - 📫 How to reach me: the best way - telegram: `@depreto` or mail: `depreto.kd@gmail.com`
 
